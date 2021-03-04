@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pingmall-user-interface" />
+        <module name="pingmall-upload" />
+        <module name="pingmall-item-interface" />
+        <module name="pingmall-item-service" />
+        <module name="pingmall-order" />
+        <module name="pingmall-cart" />
+        <module name="pingmall-search" />
+        <module name="pingmall-auth-service" />
+        <module name="pingmall-gateway" />
+        <module name="pingmall-user-service" />
+        <module name="pingmall-common" />
+        <module name="pingmall-registry" />
+        <module name="pingmall-goods-web" />
+        <module name="pingmall-auth-common" />
+        <module name="pingmall-sms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pingmall" target="1.8" />
+      <module name="pingmall-auth" target="1.8" />
+      <module name="pingmall-auth-common" target="1.8" />
+      <module name="pingmall-auth-service" target="1.8" />
+      <module name="pingmall-cart" target="1.8" />
+      <module name="pingmall-common" target="1.8" />
+      <module name="pingmall-gateway" target="1.8" />
+      <module name="pingmall-goods-web" target="1.8" />
+      <module name="pingmall-item" target="1.8" />
+      <module name="pingmall-item-interface" target="1.8" />
+      <module name="pingmall-item-service" target="1.8" />
+      <module name="pingmall-order" target="1.8" />
+      <module name="pingmall-registry" target="1.8" />
+      <module name="pingmall-search" target="1.8" />
+      <module name="pingmall-sms" target="1.8" />
+      <module name="pingmall-upload" target="1.8" />
+      <module name="pingmall-user" target="1.8" />
+      <module name="pingmall-user-interface" target="1.8" />
+      <module name="pingmall-user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="pingmall-auth-common" options="-parameters" />
+      <module name="pingmall-auth-service" options="-parameters" />
+      <module name="pingmall-cart" options="-parameters" />
+      <module name="pingmall-common" options="-parameters" />
+      <module name="pingmall-gateway" options="-parameters" />
+      <module name="pingmall-goods-web" options="-parameters" />
+      <module name="pingmall-item-interface" options="-parameters" />
+      <module name="pingmall-item-service" options="-parameters" />
+      <module name="pingmall-order" options="-parameters" />
+      <module name="pingmall-registry" options="-parameters" />
+      <module name="pingmall-search" options="-parameters" />
+      <module name="pingmall-sms" options="-parameters" />
+      <module name="pingmall-upload" options="-parameters" />
+      <module name="pingmall-user-interface" options="-parameters" />
+      <module name="pingmall-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

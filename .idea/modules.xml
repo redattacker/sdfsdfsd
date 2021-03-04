@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MALL.iml" filepath="$PROJECT_DIR$/.idea/MALL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-auth/pingmall-auth.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-auth/pingmall-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-auth/pingmall-auth-common/pingmall-auth-common.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-auth/pingmall-auth-common/pingmall-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-auth/pingmall-auth-service/pingmall-auth-service.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-auth/pingmall-auth-service/pingmall-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-cart/pingmall-cart.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-cart/pingmall-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-common/pingmall-common.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-common/pingmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-gateway/pingmall-gateway.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-gateway/pingmall-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-goods-web/pingmall-goods-web.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-goods-web/pingmall-goods-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-item/pingmall-item.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-item/pingmall-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-item/pingmall-item-interface/pingmall-item-interface.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-item/pingmall-item-interface/pingmall-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-item/pingmall-item-service/pingmall-item-service.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-item/pingmall-item-service/pingmall-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-order/pingmall-order.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-order/pingmall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-registry/pingmall-registry.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-registry/pingmall-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-search/pingmall-search.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-search/pingmall-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-sms/pingmall-sms.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-sms/pingmall-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-upload/pingmall-upload.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-upload/pingmall-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-user/pingmall-user.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-user/pingmall-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-user/pingmall-user-interface/pingmall-user-interface.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-user/pingmall-user-interface/pingmall-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingmall-master/pingmall-user/pingmall-user-service/pingmall-user-service.iml" filepath="$PROJECT_DIR$/pingmall-master/pingmall-user/pingmall-user-service/pingmall-user-service.iml" />
+    </modules>
+  </component>
+</project>

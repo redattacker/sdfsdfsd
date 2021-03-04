@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-auth/pingmall-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-auth/pingmall-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-auth/pingmall-auth-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-cart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-goods-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-goods-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-item/pingmall-item-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-item/pingmall-item-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-item/pingmall-item-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-upload/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-user/pingmall-user-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-user/pingmall-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingmall-master/pingmall-user/pingmall-user-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

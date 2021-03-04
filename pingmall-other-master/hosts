@@ -1,0 +1,30 @@
+
+0.0.0.0 activate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+
+127.0.0.1 activate.navicat.com
+
+127.0.0.1 eureka.7001.com
+127.0.0.1 eureka.7002.com
+127.0.0.1 eureka.7003.com
+127.0.0.1 www.caolei.com
+127.0.0.1 api.pingmall.com
+
+192.168.59.132 image.pingmall.com
+192.168.59.132 image.leyou.com
+
+127.0.0.1 manage.pingmall.com
+127.0.0.1 www.pingmall.com
+127.0.0.1 www.leyou.com
